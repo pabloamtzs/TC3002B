@@ -1,6 +1,6 @@
 # TC3002B
 
-# Implementación de Estructuras de Datos en Java | Tarea 1
+# Tarea 1 | Implementación de Estructuras de Datos en Java
 
 ## Descripción
 Este proyecto contiene la implementación de tres estructuras de datos fundamentales en Java:
@@ -9,13 +9,6 @@ Este proyecto contiene la implementación de tres estructuras de datos fundament
 - **HashTable (Diccionario - Key/Value)**
 
 Cada estructura incluye los métodos principales para su manipulación y acceso. Además, se proporciona un archivo de prueba (`DataStructuresTest.java`) que demuestra su funcionamiento con test cases.
-
----
-
-## Requisitos
-- Java instalado (versión 8 o superior)
-- Git (si deseas clonar el repositorio)
-- Un editor como **VS Code** o **IntelliJ IDEA**
 
 ---
 
@@ -65,11 +58,5 @@ Cada estructura incluye los métodos principales para su manipulación y acceso.
   - Intentar obtener una clave inexistente (debe devolver `null`).
   - Eliminar una clave y verificar que ya no existe.
 
----
-
-## Autor
-- **Pablo Andrés Martínez Sánchez**
-
-Si tienes alguna duda o sugerencia, siéntete libre de contribuir o abrir un issue en el repo. 🚀
 
 
